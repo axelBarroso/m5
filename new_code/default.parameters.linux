@@ -1,0 +1,9 @@
+-ds_folder C:/Users/raulg/Master/M5/PR/newCode/Databases/Dummy/
+-out_folder C:/Users/raulg/Master/M5/PR/newCode/Databases/results/
+-detector dense
+-K 200
+-global vlad
+-getglob
+-lsh
+-qtechnique pquant
+-query
